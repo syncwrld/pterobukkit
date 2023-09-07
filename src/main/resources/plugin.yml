@@ -1,0 +1,7 @@
+name: ptero-bukkit
+version: '${project.version}'
+main: me.syncwrld.pterobukkit.PteroBukkitBootstrap
+api-version: '1.13'
+
+commands:
+  servers:

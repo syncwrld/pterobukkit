@@ -1,0 +1,7 @@
+# PteroBukkit by syncwrld #
+# www.github.com/syncwrld #
+
+# Options #
+panel-url: 'https://my-dash.network.com'
+application-token: '' # you can get one in ## https://your-panel.com/admin/api
+client-token: '' # get it in ## https://your-panel.com/account/api
