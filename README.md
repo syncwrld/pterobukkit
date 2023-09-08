@@ -10,3 +10,5 @@ Another commands: *(You can use tab to look the completion)*
 
 ## Screenshots
 ![#1](https://github.com/syncwrld/pterobukkit/assets/85231933/38bc0a63-9feb-43f4-b8f3-2f588793d643)
+![#2](https://github.com/syncwrld/pterobukkit/assets/85231933/9032b772-6d87-4f2d-8b32-dc2bd8f27535)
+
